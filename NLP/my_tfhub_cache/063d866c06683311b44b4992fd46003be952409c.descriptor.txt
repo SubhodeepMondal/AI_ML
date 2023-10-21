@@ -1,0 +1,3 @@
+Module: https://tfhub.dev/google/universal-sentence-encoder/4
+Download Time: 2023-03-30 13:52:30.032778
+Downloader Hostname: Subhodeep (PID:21140)
